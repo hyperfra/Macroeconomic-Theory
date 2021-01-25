@@ -16,6 +16,11 @@ Introduction to the course
 
 ## Class 2-4
 
+[Class 2 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/master/Class2.ipynb)
+
+[Class 2 html](https://hyperfra.github.io/MacroTheoryClass2/)
+
+
 Infinite-Horizon
 
 In the first class we lay down the framework for the course's map and present the Ramsey- Cass-Koopman model. We build on the Solow Model and endogenise the consumption-saving decision. The resulting model is known as the Ramsey-Cass-Koopman models.

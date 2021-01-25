@@ -10,13 +10,13 @@ Below you find links to Jupyter Notebooks that contain the slides and the materi
 
 Introduction to the course 
 
-[Introduction notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/master/Class1.ipynb)
+[Introduction notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class1.ipynb)
 
 [Introduction html](https://hyperfra.github.io/MacroTheoryClass1/)
 
 ## Class 2-4
 
-[Class 2 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/master/Class2.ipynb)
+[Class 2 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class2.ipynb)
 
 [Class 2 html](https://hyperfra.github.io/MacroTheoryClass2/)
 

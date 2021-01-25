@@ -7,6 +7,35 @@ This course presents macroeconomic modeling at an intermediate level. We will co
 Below you find links to Jupyter Notebooks that contain the slides and the material of the course. You also find links to web based presentation of the class.
 
 ## Class 1
+
+Introduction to the course 
+
 [Introduction notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/master/Class1.ipynb)
 
 [Introduction html](https://hyperfra.github.io/MacroTheoryClass1/)
+
+## Class 2-4
+
+Infinite-Horizon
+
+In the first class we lay down the framework for the course's map and present the Ramsey- Cass-Koopman model. We build on the Solow Model and endogenise the consumption-saving decision. The resulting model is known as the Ramsey-Cass-Koopman models.
+
+
+### Learning curve
+
+Micro-foundations of saving-consumption behavior
+The concept of welfare
+The steady state and the dynamics (phase diagram)
+Comparative statics on parameters
+Government expenditure in the model
+
+### Methods
+The solve the model we need to learn how optimal control. The solution of the model consists in a system of differential equations.
+
+
+### Readings
+
+Chapter II Advanced Macroeconomics, D. Romee
+Cass David, “Optimum Growth in an Aggregative Model of Capital Accumulation.” Review of Economic Studies 32 (July): 233-240.
+Koopmans Tjalling, “On the Concept of Optimal Economic Growth”. In The Economic Approach to Economic Planning. Amsterdam: Elsevier.
+Ramsey Frank, “A Mathematical Theory of Saving”. Economic Journal 38 (December 1928): 543-559.

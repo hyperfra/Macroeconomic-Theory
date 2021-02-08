@@ -20,6 +20,10 @@ Introduction to the course
 
 [Class 2 html](https://hyperfra.github.io/MacroTheoryClass2/)
 
+[Class 3 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class3.ipynb)
+
+[Class 3 html](https://hyperfra.github.io/MacroTheoryClass3/)
+
 
 Infinite-Horizon
 

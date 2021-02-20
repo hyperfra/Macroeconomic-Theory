@@ -16,15 +16,15 @@ Introduction to the course
 
 ## Class 2-4
 
-[Class 2 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class2.ipynb)
+[Slides 2 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class2.ipynb)
 
-[Class 2 html](https://hyperfra.github.io/MacroTheoryClass2/)
+[Slides 2 html](https://hyperfra.github.io/MacroTheoryClass2/)
 
-[Class 3 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class3.ipynb)
+[Slides 3 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class3.ipynb)
 
-[Class 3 html](https://hyperfra.github.io/MacroTheoryClass3/)
+[Slides 3 html](https://hyperfra.github.io/MacroTheoryClass3/)
 
-[Class 4 html](https://hyperfra.github.io/MacroTheoryClass4/)
+[Slides 4 html](https://hyperfra.github.io/MacroTheoryClass4/)
 
 
 Infinite-Horizon

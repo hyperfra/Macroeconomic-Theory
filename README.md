@@ -14,7 +14,7 @@ Introduction to the course
 
 [Introduction html](https://hyperfra.github.io/MacroTheoryClass1/)
 
-## Class 2-4
+## Class 2-5
 
 [Slides 2 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class2.ipynb)
 

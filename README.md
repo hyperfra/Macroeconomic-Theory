@@ -73,7 +73,3 @@ We introduce discrete time difference equations.
 (*) Chapter II
 Diamond Peter, “National Debt in a Neoclassical Growth Model” American Economic Review 55 (December 1965): 1126-1150.
 
-
-
-
-[Slides 4 html](https://hyperfra.github.io/MacroTheoryClass4/)

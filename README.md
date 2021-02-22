@@ -50,3 +50,30 @@ Chapter II Advanced Macroeconomics, D. Romee
 Cass David, “Optimum Growth in an Aggregative Model of Capital Accumulation.” Review of Economic Studies 32 (July): 233-240.
 Koopmans Tjalling, “On the Concept of Optimal Economic Growth”. In The Economic Approach to Economic Planning. Amsterdam: Elsevier.
 Ramsey Frank, “A Mathematical Theory of Saving”. Economic Journal 38 (December 1928): 543-559.
+
+
+Overlapping Generations Model
+
+
+## Class 6-8
+
+The overlapping generation model introduced by Samuelson and Diamond.
+
+[Slides 5 html](https://hyperfra.github.io/MacroTheoryClass5/)
+
+### Learning Curve
+identify the difference between infinite horizon and OLG
+steady state and dynamics
+Dynamic inefficiency
+government expenditure in the model
+### Methods
+We introduce discrete time difference equations.
+
+### Readings 2
+(*) Chapter II
+Diamond Peter, “National Debt in a Neoclassical Growth Model” American Economic Review 55 (December 1965): 1126-1150.
+
+
+
+
+[Slides 4 html](https://hyperfra.github.io/MacroTheoryClass4/)

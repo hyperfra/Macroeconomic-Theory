@@ -24,6 +24,8 @@ Introduction to the course
 
 [Slides 3 html](https://hyperfra.github.io/MacroTheoryClass3/)
 
+[Slides 4 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class4.ipynb)
+
 [Slides 4 html](https://hyperfra.github.io/MacroTheoryClass4/)
 
 
@@ -58,6 +60,8 @@ Overlapping Generations Model
 ## Class 6-8
 
 The overlapping generation model introduced by Samuelson and Diamond.
+
+[Slides 5 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class5.ipynb)
 
 [Slides 5 html](https://hyperfra.github.io/MacroTheoryClass5/)
 

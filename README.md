@@ -57,7 +57,7 @@ The solve the model we need to learn how optimal control. The solution of the mo
 Overlapping Generations Model
 
 
-## Class 6-8
+## Class 6-7
 
 The overlapping generation model introduced by Samuelson and Diamond.
 

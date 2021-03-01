@@ -36,11 +36,11 @@ In the first class we lay down the framework for the course's map and present th
 
 ### Learning curve
 
-Micro-foundations of saving-consumption behavior
-The concept of welfare
-The steady state and the dynamics (phase diagram)
-Comparative statics on parameters
-Government expenditure in the model
+- Micro-foundations of saving-consumption behavior
+- The concept of welfare
+- The steady state and the dynamics (phase diagram)
+- Comparative statics on parameters
+- Government expenditure in the model
 
 ### Methods
 The solve the model we need to learn how optimal control. The solution of the model consists in a system of differential equations.
@@ -66,10 +66,11 @@ The overlapping generation model introduced by Samuelson and Diamond.
 [Slides 5 html](https://hyperfra.github.io/MacroTheoryClass5/)
 
 ### Learning Curve
-identify the difference between infinite horizon and OLG
-steady state and dynamics
-Dynamic inefficiency
-government expenditure in the model
+- Identify the difference between infinite horizon and OLG
+- Steady state and dynamics
+- Dynamic inefficiency
+- Government expenditure in the model
+- Social Security
 ### Methods
 We introduce discrete time difference equations.
 
@@ -77,3 +78,24 @@ We introduce discrete time difference equations.
 - Chapter II Advanced Macroeconomics, D. Romer
 - Diamond Peter, “National Debt in a Neoclassical Growth Model” American Economic Review 55 (December 1965): 1126-1150.
 
+
+## Class 8-12
+
+The New Keynesian Model
+
+[Slides 6 html](https://hyperfra.github.io/MacroTheoryClass6/)
+
+The optimal problem. Intertemporal choice, shocks, uncertainty. The first order conditions. Solving the model. Log-linearization. Special cases and other short cuts. Nominal rigidites, imperfect competition, demand determined output. Introduction to NKM. Monetary Policy in the NKM.
+
+### Learning Curve
+- The classical model with endogenous labor supply
+- The stochastic shocks and the implied dynamics
+- Imperfect competition
+- Price rigidities
+
+### Methods
+First order approximations, system of stochastic linear difference equations
+
+### Readings 3
+(*) Romer. Chapter V and Chapter VI.
+Jordi Gali Monetary Policy, Inflation, and the Business Cycle: An Introduction to the New Keynesian Framework.

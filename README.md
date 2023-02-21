@@ -65,9 +65,9 @@ The overlapping generation model introduced by Samuelson and Diamond. The perpet
 
 [Slides 5 html](https://hyperfra.github.io/MacroTheoryClass5/)
 
-[Slides 6 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class5b.ipynb)
+[Slides 6 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class6.ipynb)
 
-[Slides 6 html](https://hyperfra.github.io/MacroTheoryClass5b/)
+[Slides 6 html](https://hyperfra.github.io/MacroTheoryClass6/)
 
 ### Learning Curve
 - Identify the difference between infinite horizon and OLG

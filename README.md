@@ -54,16 +54,20 @@ The solve the model we need to learn how optimal control. The solution of the mo
 - Ramsey Frank, “A Mathematical Theory of Saving”. Economic Journal 38 (December 1928): 543-559.
 
 
-Overlapping Generations Model
+Overlapping Generations Models
 
 
 ## Class 6-7
 
-The overlapping generation model introduced by Samuelson and Diamond.
+The overlapping generation model introduced by Samuelson and Diamond. The perpetual Youth model of Blanchard.
 
 [Slides 5 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class5.ipynb)
 
 [Slides 5 html](https://hyperfra.github.io/MacroTheoryClass5/)
+
+[Slides 6 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class5b.ipynb)
+
+[Slides 6 html](https://hyperfra.github.io/MacroTheoryClass5b/)
 
 ### Learning Curve
 - Identify the difference between infinite horizon and OLG
@@ -83,11 +87,11 @@ We introduce discrete time difference equations.
 
 The New Keynesian Model
 
-[Slides 6 html](https://hyperfra.github.io/MacroTheoryClass6/)
+[Slides 7 html](https://hyperfra.github.io/MacroTheoryClass6/)
 
-[Slides 7 html](https://hyperfra.github.io/MacroTheoryClass7/)
+[Slides 8 html](https://hyperfra.github.io/MacroTheoryClass7/)
 
-[Slides 8 html](https://hyperfra.github.io/MacroTheoryClass8/)
+[Slides 9 html](https://hyperfra.github.io/MacroTheoryClass8/)
 
 The optimal problem. Intertemporal choice, shocks, uncertainty. The first order conditions. Solving the model. Log-linearization. Special cases and other short cuts. Nominal rigidites, imperfect competition, demand determined output. Introduction to NKM. Monetary Policy in the NKM.
 

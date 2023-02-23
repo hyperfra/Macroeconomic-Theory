@@ -93,11 +93,11 @@ We introduce discrete time difference equations.
 
 The New Keynesian Model
 
-[Slides 7 html](https://hyperfra.github.io/MacroTheoryClass6/)
+[Slides 8 html](https://hyperfra.github.io/MacroTheoryClass8/)
 
-[Slides 8 html](https://hyperfra.github.io/MacroTheoryClass7/)
+[Slides 9 html](https://hyperfra.github.io/MacroTheoryClass9/)
 
-[Slides 9 html](https://hyperfra.github.io/MacroTheoryClass8/)
+[Slides 10 html](https://hyperfra.github.io/MacroTheoryClass10/)
 
 The optimal problem. Intertemporal choice, shocks, uncertainty. The first order conditions. Solving the model. Log-linearization. Special cases and other short cuts. Nominal rigidites, imperfect competition, demand determined output. Introduction to NKM. Monetary Policy in the NKM.
 

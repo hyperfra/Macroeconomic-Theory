@@ -14,7 +14,7 @@ Introduction to the course
 
 [Introduction html](https://hyperfra.github.io/MacroTheoryClass1/)
 
-## Class 2-5
+## Class 2-4
 
 [Slides 2 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class2.ipynb)
 
@@ -58,7 +58,7 @@ The solve the model we need to learn how optimal control. The solution of the mo
 Overlapping Generations Models
 
 
-## Class 6-7
+## Class 5-7
 
 The overlapping generation model introduced by Samuelson and Diamond. The perpetual Youth model of Blanchard.
 
@@ -69,6 +69,10 @@ The overlapping generation model introduced by Samuelson and Diamond. The perpet
 [Slides 6 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class6.ipynb)
 
 [Slides 6 html](https://hyperfra.github.io/MacroTheoryClass6/)
+
+[Slides 7 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class7.ipynb)
+
+[Slides 7 html](https://hyperfra.github.io/MacroTheoryClass7/)
 
 ### Learning Curve
 - Identify the difference between infinite horizon and OLG

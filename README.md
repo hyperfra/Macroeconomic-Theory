@@ -93,6 +93,8 @@ We introduce discrete time difference equations.
 
 The New Keynesian Model
 
+[Slides 8 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/class8.ipynb)
+
 [Slides 8 html](https://hyperfra.github.io/MacroTheoryClass8/)
 
 [Slides 9 html](https://hyperfra.github.io/MacroTheoryClass9/)

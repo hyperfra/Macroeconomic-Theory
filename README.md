@@ -97,6 +97,8 @@ The New Keynesian Model
 
 [Slides 8 html](https://hyperfra.github.io/MacroTheoryClass8/)
 
+[Slides 9 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/class9.ipynb)
+
 [Slides 9 html](https://hyperfra.github.io/MacroTheoryClass9/)
 
 [Slides 10 html](https://hyperfra.github.io/MacroTheoryClass10/)

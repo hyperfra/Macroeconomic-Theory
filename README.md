@@ -101,6 +101,8 @@ The New Keynesian Model
 
 [Slides 9 html](https://hyperfra.github.io/MacroTheoryClass9/)
 
+[Slides 10 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/class10.ipynb)
+
 [Slides 10 html](https://hyperfra.github.io/MacroTheoryClass10/)
 
 The optimal problem. Intertemporal choice, shocks, uncertainty. The first order conditions. Solving the model. Log-linearization. Special cases and other short cuts. Nominal rigidites, imperfect competition, demand determined output. Introduction to NKM. Monetary Policy in the NKM.

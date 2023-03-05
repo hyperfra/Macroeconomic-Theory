@@ -119,4 +119,4 @@ First order approximations, system of stochastic linear difference equations
 ### Readings 3
 - Romer. Chapter V and Chapter VI.
 
-- *Jordi Gali Monetary Policy, Inflation, and the Business Cycle: An Introduction to the New Keynesian Framework.
+- Jordi Gali Monetary Policy, Inflation, and the Business Cycle: An Introduction to the New Keynesian Framework. Chap 2 and 3.

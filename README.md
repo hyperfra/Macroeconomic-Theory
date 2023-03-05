@@ -31,7 +31,7 @@ Introduction to the course
 
 Infinite-Horizon
 
-In the first class we lay down the framework for the course's map and present the Ramsey- Cass-Koopman model. We build on the Solow Model and endogenise the consumption-saving decision. The resulting model is known as the Ramsey-Cass-Koopman models.
+In the first class we lay down the framework for the course's map and present the Ramsey-Cass-Koopman model. We build on the Solow Model and endogenise the consumption-saving decision. The resulting model is known as the Ramsey-Cass-Koopman models.
 
 
 ### Learning curve
@@ -117,5 +117,6 @@ The optimal problem. Intertemporal choice, shocks, uncertainty. The first order 
 First order approximations, system of stochastic linear difference equations
 
 ### Readings 3
-(*) Romer. Chapter V and Chapter VI.
-Jordi Gali Monetary Policy, Inflation, and the Business Cycle: An Introduction to the New Keynesian Framework.
+- Romer. Chapter V and Chapter VI.
+
+- *Jordi Gali Monetary Policy, Inflation, and the Business Cycle: An Introduction to the New Keynesian Framework.

@@ -49,9 +49,9 @@ The solve the model we need to learn how optimal control. The solution of the mo
 ### Readings
 
 - Chapter II Advanced Macroeconomics, D. Romer
-- Cass David, “Optimum Growth in an Aggregative Model of Capital Accumulation.” Review of Economic Studies 32 (July): 233-240.
-- Koopmans Tjalling, “On the Concept of Optimal Economic Growth”. In The Economic Approach to Economic Planning. Amsterdam: Elsevier.
-- Ramsey Frank, “A Mathematical Theory of Saving”. Economic Journal 38 (December 1928): 543-559.
+- [Cass David, “Optimum Growth in an Aggregative Model of Capital Accumulation.” Review of Economic Studies 32 (July): 233-240.](https://www.jstor.org/stable/2295827?searchText=Optimum+Growth+in+an+Aggregative+Model+of+Capital+Accumulation&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DOptimum%2BGrowth%2Bin%2Ban%2BAggregative%2BModel%2Bof%2BCapital%2BAccumulation&ab_segments=0%2FSYC-7052%2Fcontrol&refreqid=fastly-default%3A64c55b8330bae0102766fbf802f2f9d9)
+- [Koopmans Tjalling, “On the Concept of Optimal Economic Growth”. In The Economic Approach to Economic Planning. Amsterdam: Elsevier.](https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1391&context=cowles-discussion-paper-series)
+- [Ramsey Frank, “A Mathematical Theory of Saving”. Economic Journal 38 (December 1928): 543-559.](https://www.jstor.org/stable/2224098?searchText=au%3A%22F.+P.+Ramsey%22&searchUri=%2Faction%2FdoBasicSearch%3Fsi%3D1%26Query%3Dau%3A%2522F.%2BP.%2BRamsey%2522&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3Aab6a4da5461734cb7ea5d078e8a97643)
 - Blanchard Olivier Jean and Stanley Fischer, Lectures in Macroeconomics, 1989 chapter 2.
 
 

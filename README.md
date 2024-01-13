@@ -6,15 +6,14 @@ This course presents macroeconomic modeling at an intermediate level. We will co
 
 Below you find links to Jupyter Notebooks that contain the slides and the material of the course. You also find links to web based presentation of the class.Beware that sometimes notebook do not render in Github. In that case you need to download it and open it with jupyter locally.
 
-## Class 1
+## Class 1 Introduction to the course 
 
-Introduction to the course 
 
 [Introduction notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class1.ipynb)
 
 [Introduction html](https://hyperfra.github.io/MacroTheoryClass1/)
 
-## Class 2-4
+## Class 2-4 Infinite-Horizon
 
 [Slides 2 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class2.ipynb)
 
@@ -28,8 +27,6 @@ Introduction to the course
 
 [Slides 4 html](https://hyperfra.github.io/MacroTheoryClass4/)
 
-
-Infinite-Horizon
 
 In the first class we lay down the framework for the course's map and present the Ramsey-Cass-Koopman model. We build on the Solow Model and endogenise the consumption-saving decision. The resulting model is known as the Ramsey-Cass-Koopman models.
 
@@ -55,10 +52,8 @@ The solve the model we need to learn how optimal control. The solution of the mo
 - Blanchard Olivier Jean and Stanley Fischer, Lectures in Macroeconomics, 1989 chapter 2.
 
 
-Overlapping Generations Models
 
-
-## Class 5-7
+## Class 5-7 Overlapping Generations Models
 
 The overlapping generation model introduced by Samuelson and Diamond. The perpetual Youth model of Blanchard.
 
@@ -85,8 +80,10 @@ We introduce discrete time difference equations.
 
 ### Readings 2
 - Chapter II Advanced Macroeconomics, D. Romer
-- Diamond Peter, “National Debt in a Neoclassical Growth Model” American Economic Review 55 (December 1965): 1126-1150.
+- [Diamond, Peter A. “National Debt in a Neoclassical Growth Model.” The American Economic Review 55, no. 5 (1965): 1126–50.](http://www.jstor.org/stable/1809231.)
 - Blanchard Olivier Jean and Stanley Fischer, Lectures in Macroeconomics, 1989 chapter 3.
+- [Blanchard, Olivier J. “Debt, Deficits, and Finite Horizons.” Journal of Political Economy 93, no. 2 (1985): 223–47.](http://www.jstor.org/stable/1832175.)
+
 
 
 ## Class 8-12
@@ -122,5 +119,4 @@ First order approximations, system of stochastic linear difference equations
 
 ### Readings 3
 - Romer. Chapter V and Chapter VI.
-
 - Jordi Gali Monetary Policy, Inflation, and the Business Cycle: An Introduction to the New Keynesian Framework. Chap 2 and 3.

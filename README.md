@@ -100,14 +100,14 @@ $$
 Second, it includes the concept of nominal rigidities (contributed by Keynes, Fisher, Taylor, Calvo, and Rothemberg), emphasizing that prices are not capable of instantaneous adjustment. Third, it incorporates stochastic shocks such as technology, government, and interest rate shocks, which are precursors to economic fluctuations. The New Keynesian model is fully grounded in microeconomic principles, like the Ramsey and the OLG models. Once solved, it can be encapsulated by two equilibrium equations and one policy rule, which form a dynamic, modern representation of the traditional static IS-LM: 
 
 $$
-\widetilde{y}_{t} =E_{t}\widetilde{y}_{t+1}-\sigma\left[i_{t}-E_{t}\left\{ \pi_{t+1}\right\} \right]+u_{t}^{IS}
+\tilde{y}_{t} =E_{t}\tilde{y}_{t+1}-\sigma\left[i_{t}-E_{t}\left\{ \pi_{t+1}\right\} \right]+u_{t}^{IS}
 $$
 
-$$\pi_{t} =\beta E_{t}\pi_{t+1}+\lambda\widetilde{y}_{t}+u_{t}^{PC}
+$$\pi_{t} =\beta E_{t}\pi_{t+1}+\lambda\tilde{y}_{t}+u_{t}^{PC}
 $$
 
 $$
-i_{t} =MR(\pi_{t},\widetilde{y}_{t},...)+u_{t}^{MP}
+i_{t} =MR(\pi_{t},\tilde{y}_{t},...)+u_{t}^{MP}
 $$
 
 In the above equations $\tilde{y}$ represents the output gap, signifying the notion of under-utilized resources, while $\pi$ denotes inflation, establishing the importance of nominal aspects, and $i$ is the nominal interest rate set by the central bank. The $u$’s represent different kinds of demand, supply, and monetary policy shocks.

@@ -24,7 +24,7 @@ Macroeconomics is inherently dynamic; therefore, the required mathematical metho
 ---
 **Box I:  Microfounding economic decision in Macroecomics**
 In the models we analyse, the dynamic optimization problem derives from the microeconomic behavior of agents who perform optimal choices by maximizing a utility function that has few relevant arguments, such as consumption (in the three models), and leisure (only in the last model). The agents consider the complete time horizon of their remaining life and their budget constraints. In the basic framework they are forward-looking and know everything about the economy and the future (this is called perfect foresight in deterministic environments).  The solution of this dynamic optimization results in differential/difference system of equations that describe the behaviour of the relevant variables of the model.
-![choices](assets\choices.png)
+![choices](assets/choices.png)
 
 ---
 
@@ -58,7 +58,7 @@ $$
 In this problem, $\rho$ is the discount rate and $n$ the growth rate of the population, $u(c(t))$ is the instantaneous felicity function that depends on consumption $c$, $f(k(t))$ is production achieved with technology $f$ that uses $k$ capital (per capita), and $\dot{k}(t)$ is the change in time of the capital stock due to investment. The course presents a general methodology to solve the above problem and characterize qualitatively the solution through a phase diagram.
 
 
-![Phase](assets\Phase.png)
+![Phase](assets/Phase.png)
 
 The resolution of this laboratory model permits to present several important results. First, how economic aggregate dynamics are determined by decisions at the microeconomic level. Second to clarify the intuition and the conditions under which there is an equivalence between the optimum solution achieved by the Social planner and the competitive equilibrium achieved by markets. Third the economic channels through which interest rates affect savings. Fourth, the effect on capital accumulation of the choice between tax and debt financing.  Fifth nominal variables are decoupled from real variables. Sixth it permits the analysis of the effects of different types of "shocks". Importantly, it identifies the hypothesis behind these six results.
 
@@ -68,7 +68,7 @@ The second model presented is the overlapping generation model. Maurice Allais f
 
 The basic demographic structure of the model is well explained by the original table in Allais appendix.
 
-![image-20240129143609962](assets\image-20240129143609962.png)
+![image-20240129143609962](assets/image-20240129143609962.png)
 
 This structure makes it clear that discrete time is better suited. A period represents the span of a generation, and generations overlap. Consider the case of generations that live in two time periods, $1$, and $2$ and the competitive equilibrium setup in a decentralized economy where we analyze each sector (households, non-financial sector, and government) separately. The problem of a household during his first period of life is
 

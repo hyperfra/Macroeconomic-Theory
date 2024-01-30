@@ -100,7 +100,7 @@ $$
 Second, it includes the concept of nominal rigidities (contributed by Keynes, Fisher, Taylor, Calvo, and Rothemberg), emphasizing that prices are not capable of instantaneous adjustment. Third, it incorporates stochastic shocks such as technology, government, and interest rate shocks, which are precursors to economic fluctuations. The New Keynesian model is fully grounded in microeconomic principles, like the Ramsey and the OLG models. Once solved, it can be encapsulated by two equilibrium equations and one policy rule, which form a dynamic, modern representation of the traditional static IS-LM: 
 
 $$
-\tilde{y}_{t} = \tilde{y}_{t+1}
+\tilde{y}_{t} = \tilde{y}_{t}
 $$
 
 

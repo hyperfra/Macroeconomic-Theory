@@ -68,6 +68,8 @@ The second model presented is the overlapping generation model. Maurice Allais f
 
 The basic demographic structure of the model is well explained by the original table in Allais appendix.
 
+<img src="assets/image-20240129143609962.png" alt="drawing" width="200"/>
+
 ![image-20240129143609962](assets/image-20240129143609962.png)
 
 This structure makes it clear that discrete time is better suited. A period represents the span of a generation, and generations overlap. Consider the case of generations that live in two time periods, $1$, and $2$ and the competitive equilibrium setup in a decentralized economy where we analyze each sector (households, non-financial sector, and government) separately. The problem of a household during his first period of life is

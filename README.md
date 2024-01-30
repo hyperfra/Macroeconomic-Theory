@@ -25,7 +25,9 @@ Macroeconomics is inherently dynamic; therefore, the required mathematical metho
 **Box I:  Microfounding economic decision in Macroecomics**
 In the models we analyse, the dynamic optimization problem derives from the microeconomic behavior of agents who perform optimal choices by maximizing a utility function that has few relevant arguments, such as consumption (in the three models), and leisure (only in the last model). The agents consider the complete time horizon of their remaining life and their budget constraints. In the basic framework they are forward-looking and know everything about the economy and the future (this is called perfect foresight in deterministic environments).  The solution of this dynamic optimization results in differential/difference system of equations that describe the behaviour of the relevant variables of the model.
 
-![choices](assets/choices.png){fig-align=center}
+<p align="center">
+  <img src="assets/choices.png" />
+</p>
 
 ---
 
@@ -58,7 +60,9 @@ $$
 
 In this problem, $\rho$ is the discount rate and $n$ the growth rate of the population, $u(c(t))$ is the instantaneous felicity function that depends on consumption $c$, $f(k(t))$ is production achieved with technology $f$ that uses $k$ capital (per capita), and $\dot{k}(t)$ is the change in time of the capital stock due to investment. The course presents a general methodology to solve the above problem and characterize qualitatively the solution through a phase diagram.
 
-![Phase](assets/Phase.png){fig-align=center}
+<p align="center">
+  <img src="assets/Phase.png" />
+</p>
 
 The resolution of this laboratory model permits to present several important results. First, how economic aggregate dynamics are determined by decisions at the microeconomic level. Second to clarify the intuition and the conditions under which there is an equivalence between the optimum solution achieved by the Social planner and the competitive equilibrium achieved by markets. Third the economic channels through which interest rates affect savings. Fourth, the effect on capital accumulation of the choice between tax and debt financing.  Fifth nominal variables are decoupled from real variables. Sixth it permits the analysis of the effects of different types of "shocks". Importantly, it identifies the hypothesis behind these six results.
 

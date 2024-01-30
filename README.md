@@ -24,6 +24,7 @@ Macroeconomics is inherently dynamic; therefore, the required mathematical metho
 ---
 **Box I:  Microfounding economic decision in Macroecomics**
 In the models we analyse, the dynamic optimization problem derives from the microeconomic behavior of agents who perform optimal choices by maximizing a utility function that has few relevant arguments, such as consumption (in the three models), and leisure (only in the last model). The agents consider the complete time horizon of their remaining life and their budget constraints. In the basic framework they are forward-looking and know everything about the economy and the future (this is called perfect foresight in deterministic environments).  The solution of this dynamic optimization results in differential/difference system of equations that describe the behaviour of the relevant variables of the model.
+
 ![choices](assets/choices.png)
 
 ---
@@ -56,7 +57,6 @@ k_{0}>0,\ \ c(t)>0,\ \ k(t)\geq0
 $$
 
 In this problem, $\rho$ is the discount rate and $n$ the growth rate of the population, $u(c(t))$ is the instantaneous felicity function that depends on consumption $c$, $f(k(t))$ is production achieved with technology $f$ that uses $k$ capital (per capita), and $\dot{k}(t)$ is the change in time of the capital stock due to investment. The course presents a general methodology to solve the above problem and characterize qualitatively the solution through a phase diagram.
-
 
 ![Phase](assets/Phase.png)
 
@@ -100,11 +100,9 @@ $$
 Second, it includes the concept of nominal rigidities (contributed by Keynes, Fisher, Taylor, Calvo, and Rothemberg), emphasizing that prices are not capable of instantaneous adjustment. Third, it incorporates stochastic shocks such as technology, government, and interest rate shocks, which are precursors to economic fluctuations. The New Keynesian model is fully grounded in microeconomic principles, like the Ramsey and the OLG models. Once solved, it can be encapsulated by two equilibrium equations and one policy rule, which form a dynamic, modern representation of the traditional static IS-LM: 
 
 $$
-\begin{aligned}
 \widetilde{y}_{t} =E_{t}\widetilde{y}_{t+1}-\sigma\left[i_{t}-E_{t}\left\{ \pi_{t+1}\right\} \right]+u_{t}^{IS} \\
 \pi_{t} =\beta E_{t}\pi_{t+1}+\lambda\widetilde{y}_{t}+u_{t}^{PC} \\
 i_{t} =MR(\pi_{t},\widetilde{y}_{t},...)+u_{t}^{MP}
-\end{aligned} 
 $$
 
 In the above equations $\tilde{y}$ represents the output gap, signifying the notion of under-utilized resources, while $\pi$ denotes inflation, establishing the importance of nominal aspects, and $i$ is the nominal interest rate set by the central bank. The $u$’s represent different kinds of demand, supply, and monetary policy shocks.

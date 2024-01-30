@@ -79,13 +79,13 @@ The basic demographic structure of the model is well explained by the original t
 This structure makes it clear that discrete time is better suited. A period represents the span of a generation, and generations overlap. Consider the case of generations that live in two time periods, $1$, and $2$ and the competitive equilibrium setup in a decentralized economy where we analyze each sector (households, non-financial sector, and government) separately. The problem of a household during his first period of life is
 
 $$
-max \u(c_{1t})+(1+\rho)^{-1}u(c_{2t+1})
+\max\ u(c_{1t})+(1+\rho)^{-1}u(c_{2t+1})
 $$
 
 subject to budget constraints, where $c_{1t}$ is consumption when young is indexed by $1$ and $c_{2t}$ is consumption when old is indexed by $2$. Of course, with more generations, you could have more indexes and the problem becomes quickly intractable analytically. In the non financial sector firms maximize profits:
 
 $$
-max \F\left(K_{t},N_{t}\right)-w_{t}N_{t}-r_{t}K_{t}
+\max\ F\left(K_{t},N_{t}\right)-w_{t}N_{t}-r_{t}K_{t}
 $$
 
 Where $F$ is technology, $w$ is the real wage that goes to labor $N$, $r$ is the real interest rate equal to the rental rate of capital, $K$.  The goods market equilibrium implies that investment equals saving

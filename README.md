@@ -117,6 +117,8 @@ In the above equations $\tilde{y}$ represents the output gap, signifying the not
 
 ## Course Classes
 
+Starred references are required.
+
 ## Class 1 Introduction to the course 
 
 
@@ -160,7 +162,7 @@ The solve the model we need to learn how optimal control. The solution of the mo
 - [Cass, David. “Optimum Growth in an Aggregative Model of Capital Accumulation.” The Review of Economic Studies 32, no. 3 (1965): 233–40.](https://doi.org/10.2307/2295827)
 - [Koopmans Tjalling, “On the Concept of Optimal Economic Growth”. In The Economic Approach to Economic Planning. Amsterdam: Elsevier.](https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1391&context=cowles-discussion-paper-series)
 - [Ramsey Frank, “A Mathematical Theory of Saving”. Economic Journal 38 (December 1928): 543-559.](https://www.jstor.org/stable/2224098)
-- Blanchard Olivier Jean and Stanley Fischer, Lectures in Macroeconomics, 1989 chapter 2.
+- * Blanchard Olivier Jean and Stanley Fischer, Lectures in Macroeconomics, 1989 chapter 2.
 
 
 
@@ -192,7 +194,7 @@ We introduce discrete time difference equations.
 ### Readings 2
 - Chapter II Advanced Macroeconomics, D. Romer
 - [Diamond, Peter A. “National Debt in a Neoclassical Growth Model.” The American Economic Review 55, no. 5 (1965): 1126–50.](http://www.jstor.org/stable/1809231.)
-- Blanchard Olivier Jean and Stanley Fischer, Lectures in Macroeconomics, 1989 chapter 3.
+- * Blanchard Olivier Jean and Stanley Fischer, Lectures in Macroeconomics, 1989 chapter 3.
 - [Blanchard, Olivier J. “Debt, Deficits, and Finite Horizons.” Journal of Political Economy 93, no. 2 (1985): 223–47.](http://www.jstor.org/stable/1832175.)
 
 
@@ -230,4 +232,4 @@ First order approximations, system of stochastic linear difference equations
 
 ### Readings 3
 - Romer. Chapter V and Chapter VI.
-- Jordi Gali Monetary Policy, Inflation, and the Business Cycle: An Introduction to the New Keynesian Framework. Chap 2 and 3.
+- * Jordi Gali Monetary Policy, Inflation, and the Business Cycle: An Introduction to the New Keynesian Framework. Chap 2 and 3.

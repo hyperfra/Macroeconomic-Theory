@@ -124,7 +124,7 @@ Starred references are required.
 
 [Introduction notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class1.ipynb)
 
-[Introduction html](https://hyperfra.github.io/MacroTheoryClass1/)
+[Introduction pdf](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class1.pdf)
 
 ## Class 2-4 Infinite-Horizon
 

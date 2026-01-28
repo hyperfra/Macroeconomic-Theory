@@ -130,15 +130,15 @@ Starred references are required.
 
 [Slides 2 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class2.ipynb)
 
-[Slides 2 html](https://hyperfra.github.io/MacroTheoryClass2/)
+[Slides 2 pdf](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class2.pdf)
 
 [Slides 3 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class3.ipynb)
 
-[Slides 3 html](https://hyperfra.github.io/MacroTheoryClass3/)
+[Slides 3 pdf](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class3.pdf)
 
 [Slides 4 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class4.ipynb)
 
-[Slides 4 html](https://hyperfra.github.io/MacroTheoryClass4/)
+[Slides 4 pdf](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class4.pdf)
 
 
 In the first class we lay down the framework for the course's map and present the Ramsey-Cass-Koopman model. We build on the Solow Model and endogenise the consumption-saving decision. The resulting model is known as the Ramsey-Cass-Koopman models.
@@ -172,15 +172,15 @@ The overlapping generation model introduced by Samuelson and Diamond. The perpet
 
 [Slides 5 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class5.ipynb)
 
-[Slides 5 html](https://hyperfra.github.io/MacroTheoryClass5/)
+[Slides 5 pdf](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class5.pdf)
 
 [Slides 6 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class6.ipynb)
 
-[Slides 6 html](https://hyperfra.github.io/MacroTheoryClass6/)
+[Slides 6 pdf](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class6.pdf)
 
 [Slides 7 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class7.ipynb)
 
-[Slides 7 html](https://hyperfra.github.io/MacroTheoryClass7/)
+[Slides 7 pdf](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/Class7.pdf)
 
 ### Learning Curve
 - Identify the difference between infinite horizon and OLG
@@ -205,17 +205,17 @@ The New Keynesian Model
 
 [Slides 8 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/class8.ipynb)
 
-[Slides 8 html](https://hyperfra.github.io/MacroTheoryClass8/)
+[Slides 8 pdf](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/class9.pdf)
 
 [Slides 9 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/class9.ipynb)
 
-[Slides 9 html](https://hyperfra.github.io/MacroTheoryClass9/)
+[Slides 9 pdf](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/class10.pdf)
 
 [Slides 10 notebook](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/class10.ipynb)
 
-[Slides 10 html](https://hyperfra.github.io/MacroTheoryClass10/)
+[Slides 10 pdf](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/class11.pdf)
 
-[Slides 11 html](https://hyperfra.github.io/MacroTheoryClass11/)
+[Slides 11 pdf](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/class12.pdf)
 
 [NKM dynare code](https://github.com/hyperfra/Macroeconomic-Theory/blob/main/Classes/NKM2.mod)
 
